@@ -1,0 +1,11 @@
+users
+data/
+digital_clone/
+images/
+llama.cpp/
+my_media/
+temp/
+data_with_files.json
+data_with_meanings.json
+media_embeddings.pt
+.env
