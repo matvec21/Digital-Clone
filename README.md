@@ -2,3 +2,6 @@ Multimedia (can read and send stickers and photo) LLM (Qwen3B Lora) trained on m
 
 получается он ведет себя как вел бы себя я
 
+boy3.py - лучшая версия инференса под ТГ бота
+
+![photo_2026-02-15_17-45-15.jpg](photo_2026-02-15_17-45-15.jpg)
